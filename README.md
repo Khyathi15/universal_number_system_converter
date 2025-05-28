@@ -1,9 +1,9 @@
-🧮 Universal Number System Converter
+## 🧮 Universal Number System Converter
 
 The Universal Number System Converter is a Python-based tool designed to facilitate seamless conversions between various numeral systems, including:
 
 - Binary to Gray code
-- Gray code to Binary
+- Gray code to Binary 
 - Binary to Decimal
 - Decimal to Binary
 - Binary to BCD (Binary-Coded Decimal)
@@ -11,8 +11,7 @@ The Universal Number System Converter is a Python-based tool designed to facilit
 - Binary to Hexadecimal
 - Binary to Octal
 
-
-🎯 Features
+## 🎯 Features
 
 -  Easily select input and output bases.
 -  Supports Both Integer and Floating-Point Values.
@@ -20,4 +19,5 @@ The Universal Number System Converter is a Python-based tool designed to facilit
 -  Helps users learn and understand number system concepts and conversions.
 -  Easily add support for more numeral systems and functionalities in the future.
 
+Made with ❤️ by Kat | VLSI Enthusiast & Builder
 
